@@ -8,14 +8,14 @@
             
         },
         {
-            "id": 1,
+            "id": 2,
             "description": "Ir de compras al supermercado",
             "date": "24/10/2012",
             "state":"atrasada"
             
         },
         {
-            "id": 1,
+            "id": 3,
             "description": "Ir de compras al supermercado",
             "date": "24/11/2012",
             "state":"liberada"
