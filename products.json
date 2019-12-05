@@ -1,0 +1,75 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Product A",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo A"
+            
+        },
+        {
+            "id": 2,
+            "name": "Product A",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo B"
+            
+        },
+        {
+            "id": 3,
+            "name": "Product B",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo B"
+            
+        },
+        {
+            "id": 4,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+        },
+        {
+            "id": 5,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+        },
+        {
+            "id": 6,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+        },
+        {
+            "id": 7,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+        },
+        {
+            "id": 8,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+        },
+        {
+            "id": 8,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+            
+        },
+        {
+            "id": 8,
+            "name": "Product C",
+            "description": "Lorem ipsum",
+            "categorie":"Tipo D"
+            
+        }
+    ]
+}
