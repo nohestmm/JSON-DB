@@ -3,72 +3,73 @@
         {
             "id": 1,
             "name": "Product A",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo A"
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"A"
+            
             
         },
         {
             "id": 2,
-            "name": "Product A",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo B"
+            "name": "Product B",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"B"
             
         },
         {
             "id": 3,
-            "name": "Product B",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo B"
+            "name": "Product C",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"A"
             
         },
         {
             "id": 4,
-            "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "name": "Product D",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"A"
             
         },
         {
             "id": 5,
-            "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "name": "Product E",
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"B"
             
         },
         {
             "id": 6,
             "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"A"
             
         },
         {
             "id": 7,
             "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"B"
             
         },
         {
             "id": 8,
             "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"B"
             
         },
         {
             "id": 9,
             "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"A"
             
             
         },
         {
             "id": 10,
             "name": "Product C",
-            "description": "Lorem ipsum",
-            "categorie":"Tipo D"
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+            "categorie":"B"
             
         }
     ]
